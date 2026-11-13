@@ -121,6 +121,7 @@ img {
   width: 20%;
   height: auto;
   margin-bottom: 10px;
+  border-radius: 15px;
 }
 footer {
   border-top: 5px solid #269d2e;
